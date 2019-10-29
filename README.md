@@ -14,7 +14,7 @@ Jak zrobić PR?
  
 * [Podstawowe rzeczy ](#podstawowe-rzeczy)
 * [Darmowe usługi Azure (free tier)](#darmowe-usługi-azure-free-tier)
-* [Pytania luźne, ogólne](#ogólne)
+* [Pytania luźne, ogólne](#pytania-luźne-ogólne)
 * [Usługi w Azure](#usługi-w-azure)
    * [Azure Storage](#azure-storage)
    * [Azure App Service](#azure-app-service)
