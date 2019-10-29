@@ -14,6 +14,7 @@ Jak zrobić PR?
  
 * [Podstawowe rzeczy ](#podstawowe-rzeczy)
 * [Darmowe usługi Azure (free tier)](#darmowe-usługi-azure-free-tier)
+* [Pytania luźne, ogólne](#pytania-luźne-ogólne)
 * [Usługi w Azure](#usługi-w-azure)
    * [Azure Storage](#azure-storage)
    * [Azure App Service](#azure-app-service)
@@ -36,6 +37,8 @@ Jak zrobić PR?
 
 - Lista darmowych uslug w [Azure Free Tier](https://azure.microsoft.com/pl-pl/free/)
 - [Przewodnik po Azure Free Tier](https://marczak.io/posts/2019/07/azure-jumpstart/)
+
+## Pytania luźne, ogólne
 
 ## Usługi w Azure
  
