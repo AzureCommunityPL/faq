@@ -51,7 +51,7 @@ Jak zrobić PR?
 
 ## Certyfikaty
 
-Lista dostępnych ćwiczeń do certyfikatów na Microsoft Learn
+Lista oficjalnych laboratoriów do certyfikatów
 * [AZ-103 Microsoft Azure Administrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
 * [AZ-203 Developing Solutions for Microsoft Azure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure)
 * [AZ-300 Microsoft Azure Architect Technologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies)
