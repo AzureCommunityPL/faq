@@ -11,8 +11,22 @@ Jak zrobić PR?
 1. [Zrób PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 ## Spis treści
+ 
+* [Podstawowe rzeczy ](#podstawowe-rzeczy)
+* [Darmowe usługi Azure (free tier)](#darmowe-usługi-azure-free-tier)
+* [Usługi w Azure](#usługi-w-azure)
+   * [Azure Storage](#azure-storage)
+   * [Azure App Service](#azure-app-service)
+   * [Azure Functions](#azure-functions)
 
 ## Podstawowe rzeczy 
 
 ## Darmowe usługi Azure (free tier)
 
+## Usługi w Azure
+ 
+### Azure Storage
+
+### Azure App Service
+
+### Azure Functions
