@@ -19,6 +19,7 @@ Jak zrobić PR?
    * [Azure Storage](#azure-storage)
    * [Azure App Service](#azure-app-service)
    * [Azure Functions](#azure-functions)
+* [Certyfikaty](#certyfikaty)
 
 ## Podstawowe rzeczy 
 
@@ -47,3 +48,17 @@ Jak zrobić PR?
 ### Azure App Service
 
 ### Azure Functions
+
+## Certyfikaty
+
+Lista oficjalnych laboratoriów do certyfikatów
+* [AZ-103 Microsoft Azure Administrator](https://github.com/MicrosoftLearning/AZ-103-MicrosoftAzureAdministrator)
+* [AZ-203 Developing Solutions for Microsoft Azure](https://github.com/MicrosoftLearning/AZ-203-DevelopingSolutionsforMicrosoftAzure)
+* [AZ-300 Microsoft Azure Architect Technologies](https://github.com/MicrosoftLearning/AZ-300-MicrosoftAzureArchitectTechnologies)
+* [AZ-301 Microsoft Azure Architect Design](https://github.com/MicrosoftLearning/AZ-301-MicrosoftAzureArchitectDesign)
+* [AZ-500 Azure Security](https://github.com/MicrosoftLearning/AZ-500-Azure-Security)
+* [AI Introduction](https://github.com/MicrosoftLearning/AI-Introduction)
+* [AI-100 Designing and Implementing an Azure AI Solution](https://github.com/MicrosoftLearning/AI-100-Design-Implement-Azure-AISol)
+* [DP-100 Implementing an Azure Data Science Solution](https://github.com/MicrosoftLearning/DP-100-Designing-and-Implementing-a-Data-Science-Solutio)
+* [DP-200 Implementing an Azure Data Solution](https://github.com/MicrosoftLearning/DP-200-Implementing-an-Azure-Data-Solution)
+* [DP-201 Designing an Azure Data Solution](https://github.com/MicrosoftLearning/DP-201-Designing-an-Azure-Data-Solution)
