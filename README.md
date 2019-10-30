@@ -34,6 +34,12 @@ Jak zrobić PR?
 - [Ogłoszenia na temat nowych usług i zmian](https://azure.microsoft.com/en-us/blog/topics/announcements/)
 - [Ogłoszenia aktualizacji w uslugach](https://azure.microsoft.com/en-us/updates/)
 
+**Ciekawe artykuły i strony dla architektów Azure**
+- [Centrum architektury Azure](https://docs.microsoft.com/en-us/azure/architecture/)
+- [Lista limitacji dla usług Azure](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
+- [Architektury referencyjne](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
+- [Przykładowe architektury z wyszukiwarką po usługach](https://azure.microsoft.com/en-us/solutions/architecture/)
+
 ## Darmowe usługi Azure (free tier)
 
 - Lista darmowych uslug w [Azure Free Tier](https://azure.microsoft.com/pl-pl/free/)
