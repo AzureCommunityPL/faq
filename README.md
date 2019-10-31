@@ -42,6 +42,7 @@ Jak zrobić PR?
 
 ## Darmowe konto w Azure (free trial)
 
+- Azure Free Trial(https://azure.microsoft.com/en-us/free/)
 
 ## Pytania luźne, ogólne
 
