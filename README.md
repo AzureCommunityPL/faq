@@ -36,7 +36,7 @@ Jak zrobić PR?
 
 **Ciekawe artykuły i strony dla architektów Azure**
 - [Centrum architektury Azure](https://docs.microsoft.com/en-us/azure/architecture/)
-- [Lista limitacji dla usług Azure](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
+- [Lista limitów i ograniczeń usług Azure](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 - [Architektury referencyjne](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 - [Przykładowe architektury z wyszukiwarką po usługach](https://azure.microsoft.com/en-us/solutions/architecture/)
 
