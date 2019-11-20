@@ -39,6 +39,7 @@ Jak zrobić PR?
 - [Lista limitacji dla usług Azure](https://docs.microsoft.com/en-us/azure/azure-subscription-service-limits)
 - [Architektury referencyjne](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/)
 - [Przykładowe architektury z wyszukiwarką po usługach](https://azure.microsoft.com/en-us/solutions/architecture/)
+- [Nieoficjalny agregator usług z ich parametrami(SLA, dostępność, status)](https://azurecharts.com/)
 
 ## Darmowe usługi Azure (free tier)
 
