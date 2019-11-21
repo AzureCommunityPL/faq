@@ -57,6 +57,10 @@ Jak zrobić PR?
 
 ### Azure Functions
 
+### Azure Resource Manager (ARM)
+- [Struktura szablonów ARM](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-authoring-templates)
+- [Definicje zasobów Azure do Azure Resource Managera](https://docs.microsoft.com/en-us/azure/templates/)
+
 ## Certyfikaty
 
 Lista oficjalnych laboratoriów do certyfikatów
