@@ -35,6 +35,7 @@ Jak zrobić PR?
 - [Ogłoszenia na temat nowych usług i zmian](https://azure.microsoft.com/en-us/blog/topics/announcements/)
 - [Ogłoszenia aktualizacji w uslugach](https://azure.microsoft.com/en-us/updates/)
 - [Status usług Azure](https://status.azure.com/en-us/status)
+- [Azure Support na Twitterze](https://twitter.com/AzureSupport)
 
 **Ciekawe artykuły i strony dla architektów Azure**
 - [Centrum architektury Azure](https://docs.microsoft.com/en-us/azure/architecture/)
