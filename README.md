@@ -28,6 +28,7 @@ Jak zrobić PR?
 
 - Darmowe kursy Microsoft na [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
 - [Azure JumpStart](https://marczak.io/posts/2019/07/azure-jumpstart/) by @MarczakIO
+- Darmowe szkolenia wideo w [Pluralsight](https://www.pluralsight.com/partners/microsoft/azure)
 
 **Co śledzić w temacie Azure?**
 
