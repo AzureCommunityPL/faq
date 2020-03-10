@@ -82,46 +82,4 @@ Jak zrobić PR?
 * [DP-201 Designing an Azure Data Solution](https://github.com/MicrosoftLearning/DP-201-Designing-an-Azure-Data-Solution)
 
 ### Lista oficjalnych szkoleń do certyfikatów
-* AZ-103 Microsoft Azure Administrator:
-  * [Kurs: Microsoft Azure Administrator](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-103.1+2019_T2/about) (Wygasa 01.01.2020)
-* AZ-203 Developing Solutions for Microsoft Azure:
-  * [Kurs 1: Develop Azure Infrastructure as a Service compute solutions](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.1+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 2: Develop Azure Platform as a Service compute solutions](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.2+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 3: Develop for Azure storage](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.3+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 4: Implement Azure Security](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.4+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 5: Monitor, troubleshoot, and optimize Azure solutions](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.5+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 6: Connect to and consume Azure, and third-party, services](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-203.6+2019_T2/about) (Wygasa 01.01.2020)
-* AZ-300 Microsoft Azure Architect Technologies:
-  * [Kurs 1: Deploying and Configuring Infrastructure](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-300.1+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 2: Implementing Workloads and Security](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-300.2+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 3: Understanding Cloud Architect Technology Solutions](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-300.3+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 4: Creating and Deploying Apps](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-300.4+2019_T2/about) (Wygasa 01.01.2020)
-  * (Kursu 5 nie ma)
-  * [Kurs 6: Developing for the Cloud](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-300.6+2019_T2/about) (Wygasa 01.01.2020)
-* AZ-301 Microsoft Azure Architect Design:
-  * [Kurs 1: Designing for Identity and Security](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-301.1+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 2: Designing a Data Platform Solution](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-301.2+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 3: Designing for Deployment, Migration, and Integration](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-301.3+2019_T2/about) (Wygasa 01.01.2020)
-  * [Kurs 4: Designing an Infrastructure Strategy](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-301.4+2019_T2/about) (Wygasa 01.01.2020)
-* AZ-400 Microsoft Azure DevOps Solutions
-  * [Kurs 1: Implementing DevOps Development Processes](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.1+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 2: Implementing Continuous Integration](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.2+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 3: Implementing Continuous Delivery](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.3+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 4: Implementing Dependency Management](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.4+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 5: Implementing Application Infrastructure](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.5+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 6: Implementing Continuous Feedback](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.6+2019_T1/about) (Wygasa 01.01.2020)
-  * [Kurs 7: Designing a DevOps Strategy](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-400.7+2019_T1/about) (Wygasa 01.01.2020)
-* AZ-500 Microsoft Azure Security Technologies
-  * [Kurs: Microsoft Azure Security Technologies](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-500.0+2019_T2/about) (Wygasa 01.01.2020)
-* AZ-900 Microsoft Azure Fundamentals
-  * [Kurs: Microsoft Azure Fundamentals](https://oxa.microsoft.com/courses/course-v1:Microsoft+AZ-900+2019_T2/about) (Wygasa 01.01.2020)
-
-* AI-100 Designing and Implementing an Azure AI Solution
-  * [Kurs: Designing and Implementing an Azure AI Solution](https://oxa.microsoft.com/courses/course-v1:Microsoft+AI-100.1+2019_T3/about) (Wygasa 01.01.2020)
-
-* DP-100 Designing and Implementing a Data Science Solution on Azure
-  * [Kurs: Designing and Implementing a Data Science Solution on Azure](https://oxa.microsoft.com/courses/course-v1:Microsoft+DP-100.1+2019_T3/about) (Wygasa 01.01.2020)
-* DP-200 Implementing an Azure Data Solution
-  * [Kurs: Implementing an Azure Data Solution](https://oxa.microsoft.com/courses/course-v1:Microsoft+DP-200.1+2019_T3/about) (Wygasa 01.01.2020)
-* DP-201 Designing an Azure Data Solution
-  * [Kurs: Designing an Azure Data Solution](https://oxa.microsoft.com/courses/course-v1:Microsoft+DP-201.1+2019_T3/about) (Wygasa 01.01.2020)
+10.03.2020 - linki usunięte gdyż ponieważ wygasły i szkoda miejsca w repo na nie :) - Emil Wasilewski
